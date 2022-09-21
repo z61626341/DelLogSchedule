@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DelLogSchedule": {
+      "commandName": "Project",
+      "commandLineArgs": "--Num=100000\r\n--Month=6\r\n--Min=5",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}

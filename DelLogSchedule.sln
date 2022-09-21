@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelLogSchedule", "DelLogSchedule\DelLogSchedule.csproj", "{2A3DC567-7394-4C0A-9FB8-E09B3C143304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{2414CFAA-86E6-40A6-A2E6-765BB6AC4B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3DC567-7394-4C0A-9FB8-E09B3C143304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3DC567-7394-4C0A-9FB8-E09B3C143304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3DC567-7394-4C0A-9FB8-E09B3C143304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3DC567-7394-4C0A-9FB8-E09B3C143304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2414CFAA-86E6-40A6-A2E6-765BB6AC4B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2414CFAA-86E6-40A6-A2E6-765BB6AC4B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2414CFAA-86E6-40A6-A2E6-765BB6AC4B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2414CFAA-86E6-40A6-A2E6-765BB6AC4B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232C51A6-FD4F-4F9E-9BED-6A0F6BE4A356}
+	EndGlobalSection
+EndGlobal
